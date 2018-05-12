@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1272
     wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46091#The-Octoroonor-Life-in-Louisiana--A-Play-in-Five-acts
 gutenberg_issued: '2014-06-24'
 gutenberg_type: Text
 identifiers:
