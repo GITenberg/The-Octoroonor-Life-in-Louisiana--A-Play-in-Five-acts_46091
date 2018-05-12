@@ -1,0 +1,37 @@
+_repo: The-Octoroonor-Life-in-Louisiana--A-Play-in-Five-acts_46091
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46091-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boucicault, Dion
+    aliases:
+    - Boursecault, Dion L. (Dion Lardner)
+    - Borcicault, Dion
+    - Boursiquot, Dionysus Lardner
+    - Bourcicault, Dionysius Lardner
+    birthdate: 1820
+    deathdate: 1890
+    gutenberg_agent_id: '1272'
+    url: http://www.gutenberg.org/2009/agents/1272
+    wikipedia: http://en.wikipedia.org/wiki/Dion_Boucicault
+description: ''
+gutenberg_issued: '2014-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Racially mixed women -- Drama'
+- !lcsh 'Plantations -- Drama'
+- !lcsh 'Slavery -- Drama'
+- !lcsh 'Love -- Drama'
+- !lcsh 'Slaves -- Drama'
+- !lcsh 'Louisiana -- Drama'
+- !lcc 'PR'
+title: The Octoroon; or, Life in Louisiana. A Play in Five acts
+url: http://www.gutenberg.org/ebooks/46091
